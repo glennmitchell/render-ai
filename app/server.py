@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1XGjTYBTh-t3fymeXPK5kcIDGjdqvCY-K'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1ZlTZf0OyebtDc_G-SvaFSWJoksOag3J0'
 export_file_name = 'export.pkl'
 
 classes = ['cx3', 'cx5', 'cx9', 'mazda2', 'mazda3', 'mazda6', 'mx5']
